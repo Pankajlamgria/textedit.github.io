@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/textedit.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/textedit.github.io/static/js/main.fde447f6.js",
-    "static/js/512.125ea300.chunk.js": "/textedit.github.io/static/js/512.125ea300.chunk.js",
+    "main.js": "/textedit.github.io/static/js/main.c76fb3c4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textedit.github.io/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/textedit.github.io/index.html",
     "main.e6c13ad2.css.map": "/textedit.github.io/static/css/main.e6c13ad2.css.map",
-    "main.fde447f6.js.map": "/textedit.github.io/static/js/main.fde447f6.js.map",
-    "512.125ea300.chunk.js.map": "/textedit.github.io/static/js/512.125ea300.chunk.js.map"
+    "main.c76fb3c4.js.map": "/textedit.github.io/static/js/main.c76fb3c4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textedit.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fde447f6.js"
+    "static/js/main.c76fb3c4.js"
   ]
 }
