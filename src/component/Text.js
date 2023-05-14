@@ -81,34 +81,34 @@ export default function Text(props) {
               rows="8"
             ></textarea>
           </div>
-          <button type="button" className={`btn btn-${props.btncolor} mx-1`} onClick={upper}>
+          <button type="button" className={`btn btn-${props.btncolor} mx-1 my-1`} onClick={upper}>
             Change into Upper
           </button>
           <button
             type="button"
-            className={`btn btn-${props.btncolor} mx-1`}
+            className={`btn btn-${props.btncolor} mx-1 my-1`}
             onClick={lower}
           >
             Change into Lower
           </button>
           <button
             type="button"
-            className={`btn btn-${props.btncolor} mx-1`}
+            className={`btn btn-${props.btncolor} mx-1 my-1`}
             onClick={letterupper}
           >
             Change first letter to upper
           </button>
           <button
             type="button"
-            className={`btn btn-${props.btncolor} mx-1`}
+            className={`btn btn-${props.btncolor} mx-1 my-1`}
             onClick={clear}
           >
             Clear
           </button>
-          <button type="button" className={`btn btn-${props.btncolor} mx-1`} onClick={copy}>
+          <button type="button" className={`btn btn-${props.btncolor} mx-1 my-1`} onClick={copy}>
             Copy
           </button>
-          <button type="button" className={`btn btn-${props.btncolor} mx-1`} onClick={removespace}>
+          <button type="button" className={`btn btn-${props.btncolor} mx-1 my-1`} onClick={removespace}>
             Remove Extra spaces
           </button>
         </div>
